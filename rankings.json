@@ -1,3 +1,9 @@
 {
-  "rankings": []
+  "rankings": [
+    {
+      "name": "Reid",
+      "score": 5,
+      "battler": "Actor1_1"
+    }
+  ]
 }
