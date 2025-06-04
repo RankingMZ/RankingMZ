@@ -3,7 +3,8 @@
     {
       "name": "Reid",
       "score": 5,
-      "battler": "Actor1_1"
+      "battler": "Actor1_1",
+      "customText": "pp"
     }
   ]
 }
